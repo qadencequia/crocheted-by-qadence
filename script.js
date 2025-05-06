@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Pua Kenikeni",
             description: "Available in 3 different colors",
             price: 30.00,
-            image: "images/product-1.jpeg",
+            image: "product-1.jpeg",
             colors: [
                 { hex: "#FFD700", name: "Golden Yellow" },
                 { hex: "#FF6B6B", name: "Coral" },
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Basic",
             description: "Up to 3 colors per lei",
             price: 10.00,
-            image: "images/product-2.jpeg",
+            image: "product-2.jpeg",
             colors: [
                 { hex: "#4682B4", name: "Steel Blue" },
                 { hex: "#9370DB", name: "Medium Purple" },
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Pikake",
             description: "Available in 3 different colors",
             price: 15.00,
-            image: "images/product-3.jpeg",
+            image: "product-3.jpeg",
             colors: [
                 { hex: "#FFFFFF", name: "White" },
                 { hex: "#FFE4E1", name: "Misty Rose" },
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Plumeria",
             description: "Choose middle and petal colors (2 colors)",
             price: 15.00,
-            image: "images/product-4.jpeg",
+            image: "product-4.jpeg",
             colorPairs: [
                 {
                     label: "Middle",
